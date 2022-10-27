@@ -1,0 +1,201 @@
+* {
+    box-sizing: border-box;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+body {
+    width: 1728px;
+    height: 1920;
+    margin: auto;
+}
+
+.peel-1 {
+    display: flex;
+}
+.undsen {
+    margin: auto;
+}
+
+ul li{
+    flex-direction: co;
+}
+
+.list {
+    margin-left: 450px;
+}
+
+.list ul {
+    list-style: none;
+}
+
+.zuun-zai {
+    margin-left: 30px;
+}
+
+.zai {
+    justify-content: space-between;
+    align-items: center;
+    height: auto;
+    width: 1727.99px;
+}
+
+
+.deed-mar {
+    margin-top: 15px;
+    margin-left: 40px;
+    justify-content: flex-start;
+}
+
+.tov-zurag {
+    margin: auto;
+    width: 1727.99px;
+    height: 1080px;
+    position: relative;
+}
+
+.gala-zurag {
+    position: absolute;
+    top: 0;
+    margin-top: 470px;
+    margin-left: 200px;
+}
+
+.zuun-zurag {
+    padding-right: 0;
+    margin-left: 500px;
+    position: relative;
+}
+
+.baruun-zurag {
+    position: relative;
+}
+
+.ugnuud {
+    position: absolute;
+    position: absolute;
+    top: 0;
+    margin-top: 1170px;
+    margin-left: 32px;
+}
+
+.baruun-ug {
+    margin-left: 525px;
+}
+
+.hoyr-utas {
+    width: 1728px;
+    margin: auto;
+    height: 486px;
+}
+
+/*       dundah-tsagaan     */
+
+.tsagaan {
+    height: 50px;
+    width: 1727.99px;
+    margin: auto;
+    margin-top: 30px;
+    padding-left: 30px;
+}
+
+
+/*         ddund-zurag     */
+
+
+.gol {
+    position: relative;
+}
+
+h3 {
+    position: absolute;
+    top: 0;
+    font-family: Poppins;
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 400px;
+    margin-left: 159px;
+
+}
+.gol-1 {
+    background-color: rgb(247, 241, 241);
+    height: 480px;
+    width: 470px;
+}
+
+.gol-1:hover {
+    background-color: darkblue;
+    height: 480px;
+    width: 470px;
+    color:  white;
+}
+
+.gol {
+    height: 480px;
+    width: 432px;
+}
+
+.jaahan {
+    width: 337px;
+    height: 35px;
+    padding-right: 100px;
+}
+
+
+.saaral {
+    background-color: rgb(247, 241, 241);
+}
+
+
+/*                 footer             */
+
+.dood {
+    margin-left: 30px;
+    margin-top: 0;
+}
+
+
+.hol-urt {
+    width: 1728px;
+    height: 231px;
+}
+
+.zuun-hasah {
+    margin-left: 30px;
+    margin-top: 44px;
+}
+
+.yrool {
+    width: 880px;
+    height: 44px;
+    margin-left: 30px;
+}
+
+.none {
+    list-style: none;
+    padding: 0;
+}
+
+.jijig-zai {
+    margin-left: 50px;
+}
+
+.jijig-font {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+}
+
+.l {
+    width: 150px;
+}
+
+.con {
+    margin-top: 0;
+}
